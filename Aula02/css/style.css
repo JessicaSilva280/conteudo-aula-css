@@ -1,0 +1,39 @@
+body {
+    background-color: lightblue;
+}
+
+.ex1 {
+    border: 6px solid white;
+}
+
+.ex2 {
+    border: 6px solid hsl(0, 0%, 100%);
+    border-width: medium;
+}
+
+.ex3{
+    border: 6px dotted rgb(221, 160, 221);
+}
+
+.ex4 {
+    border: dotted #bc8f8f;
+    border-width: thick;
+}
+
+.ex5 {
+    border: solid;
+    border-width: 20px 10px;
+    border-color: aquamarine royalblue palevioletred purple;
+}
+
+.ex6 {
+    border-top-style: solid;
+    border-right-style: dotted;
+    border-bottom: double;
+    border-left-style: double;
+}
+
+.ex7 {
+    border: 6px solid #f8a;
+    border-radius: 20px;
+}
