@@ -1,0 +1,8 @@
+body{
+    background-color: mediumpurple;
+}
+
+.ex1 li{
+    list-style-image: url('../img/github.svg');
+    list-style-type: disc;
+}
